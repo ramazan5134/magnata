@@ -3,5 +3,5 @@
   "website": "csduragi.com",
   "description": "best node",
   "logo": "https://r.resimlink.com/8lYACdasXg.png",
-  "twitter": "https://twitter.com/Aim2K_"
+  "twitter": "https://x.com/Aim2K_"
 }
