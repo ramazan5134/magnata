@@ -1,1 +1,7 @@
-# magnata
+{
+  "name": "aim2k",
+  "website": "csduragi.com",
+  "description": "best node",
+  "logo": "https://r.resimlink.com/LniAGS7zl.png",
+  "twitter": "https://twitter.com/Aim2K_"
+}
