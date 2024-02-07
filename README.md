@@ -2,6 +2,6 @@
   "name": "aim2k",
   "website": "csduragi.com",
   "description": "best node",
-  "logo": "https://r.resimlink.com/LniAGS7zl.png",
+  "logo": "https://w7.pngwing.com/pngs/457/630/png-transparent-location-logo-locat>
   "twitter": "https://twitter.com/Aim2K_"
 }
